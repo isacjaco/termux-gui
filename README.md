@@ -2,6 +2,7 @@
 
 [<img src="https://img.shields.io/github/v/release/termux/termux-gui?include_prereleases"/>](https://github.com/termux/termux-gui/releases)
 [<img src="https://img.shields.io/f-droid/v/com.termux.gui"/>](https://f-droid.org/de/packages/com.termux.gui/)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/com.termux.gui/)
 
 
 This is a plugin for [Termux](https://github.com/termux/termux-app) that enables command line programs to use the native android GUI.  
